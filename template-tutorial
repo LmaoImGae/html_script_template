@@ -1,0 +1,31 @@
+<html>
+// The HTML tag will start all. Web page or website will not function without this.
+
+  <head>
+  // An optional tag if you want to include a title (The Site Name) in your web page.
+  
+    <title> </title> // An optional tag as well.
+    
+    <style>
+    // This is where you can add your Cascading Style Sheet (CSS) codes in here. CSS will design the look of your web page.
+    // The <link> tag (A name.css page) is more efficient if you want your website have the same classification (<p class="">) tag or 
+    // the same identification (<p id="">) tag.
+    </style>
+    
+  </head>
+  
+  <body>
+  // The body in the most important part of your web page. Here, you can add texts, images, videos and links. Of course, most, if not all, 
+  // of them will require a tag. 
+  </body>
+  
+// Most of the tags will require an end tag. The <img> tag (Image Tag) does not require an end tag.
+</html>
+
+<html>
+ <head>
+   <title> </title>
+ </head>
+ <body>
+ </body>
+</html>
